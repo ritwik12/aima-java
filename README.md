@@ -429,12 +429,6 @@ Java implementation of algorithms from Russell and Norvig's "Artificial Intellig
        <td></td>
        <td></td>
    </tr>
-   <tr>
-       <td>14.?</td>
-       <td>??</td>
-       <td>Bayesian Network</td>
-       <td><a href="core/src/main/java/aima/core/Probability/Bayes/BayesianNetwork.java"</a>BayesianNetwork</td>
-   </tr>
    </tbody>
 </table>
 
